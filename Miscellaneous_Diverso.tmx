@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You agree to defend, indemnify and hold Panda Restaurant Group, Inc., its affiliates, officers, directors, employees, agents, licensors, business associates, and suppliers harmless from and against any actual or threatened claims, actions or demands, causes of action, damages, losses, expenses, liabilities and settlements including, without limitation, reasonable legal and accounting fees and costs of suit, resulting from, or alleged to result from, or arising out of or in connection with, your use of the website, including, without limitation, your use of the website in a manner that violates or is alleged to violate this Terms and Conditions statement or any applicable law.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T155235Z">
+        <seg>Usted acepta defender, indemnizar y eximir de responsabilidad a Panda Restaurant Group, Inc., sus afiliados, funcionarios, directores, empleados, agentes, licenciantes, socios comerciales y proveedores de cualquier reclamo, acción o demanda real o amenazada, causas de acción, daños, pérdidas, gastos, responsabilidades y liquidaciones, que incluy<ph x="0">&lt;t0/&gt;</ph>e<ph x="1">&lt;t1/&gt;</ph>n, entre otros, honorarios legales y contables y costos de la demanda<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>razonables, que se derivan<ph x="4">&lt;t4/&gt;</ph>,<ph x="5">&lt;t5/&gt;</ph> se alega que resultan o que se derivan de su uso del sitio web, incluido, sin limitación, su uso del sitio web de una manera que viole o se alegue <ph x="6">&lt;t6/&gt;</ph>a<ph x="7">&lt;t7/&gt;</ph> <ph x="8">&lt;t8/&gt;</ph>viola<ph x="9">&lt;t9/&gt;</ph>r<ph x="10">&lt;t10/&gt;</ph> esta declaración de <ph x="11">&lt;t11/&gt;</ph>t<ph x="12">&lt;t12/&gt;</ph>érminos y <ph x="13">&lt;t13/&gt;</ph>c<ph x="14">&lt;t14/&gt;</ph>ondiciones o cualquier ley aplicable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>E-mail submissions over the Internet may not be secure.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T155235Z">
+        <seg>Los envíos por correo electrónico a través de Internet pueden no ser seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please consider this fact before e-mailing any personal or confidential information.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T155235Z">
+        <seg>Tenga en cuenta este hecho antes de enviar por correo electrónico cualquier información personal o confidencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Miscellaneous</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T155235Z">
+        <seg>Diverso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These terms and conditions will be governed and interrupted pursuant to the laws of the State of California, inside the United States of America, notwithstanding any principles of conflict of laws.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T155235Z">
+        <seg>Estos términos y condiciones se regirán e interrumpirán de conformidad con las leyes del Estado de California, dentro de los Estados Unidos de América, sin perjuicio de los principios de conflicto de leyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the entire agreement between the parties relating to the use of this website.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T155235Z">
+        <seg>Este es el acuerdo completo entre las partes en relación con el uso de este sitio web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>can revise these terms and conditions at any time by updating this posting.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T155235Z">
+        <seg>puede revisar estos términos y condiciones en cualquier momento actualizando esta publicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Panda Restaurant Group, Inc. products and services are available in many parts of the world.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T155235Z">
+        <seg>Los productos y servicios de Panda Restaurant Group, Inc. están disponibles en muchas partes del mundo.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

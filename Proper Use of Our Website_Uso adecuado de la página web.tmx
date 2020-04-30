@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Proper Use of Our Site</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T154352Z">
+        <seg>Uso adecuado de nuestra página web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This website is made available to provide information about Panda Restaurant Group, Inc.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T154352Z">
+        <seg>Esta página web ofrece información sobre Panda Restaurant <ph x="0">&lt;t0/&gt;</ph>Group<ph x="1">&lt;t1/&gt;</ph>, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>in both the United States and elsewhere.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T154352Z">
+        <seg>en los Estados Unidos como cualquier otra localidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, certain of the information made available on this website applies only to Panda Restaurant Group, Inc.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T154352Z">
+        <seg>Pero, parte de la información disponible en esta página web solo se aplica a Panda Restaurant <ph x="2">&lt;t2/&gt;</ph>Group<ph x="3">&lt;t3/&gt;</ph> Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>in the United States and to operations within the United States.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T154352Z">
+        <seg>en Estados Unidos y sus operaciones en este espacio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, information made available on this website regarding menu items, menu item availability and nutritional information is made available only with respect to Panda Restaurant Group, Inc.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T154352Z">
+        <seg>Por ejemplo, la información sobre los menús, disponibilidad de menús e información nutricional solo incluye a Panda Restaurant <ph x="4">&lt;t4/&gt;</ph>Group<ph x="5">&lt;t5/&gt;</ph>, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press information available on this website is only intended for media seeking information about our operations within the United States.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T154352Z">
+        <seg><ph x="6">&lt;t6/&gt;</ph>La i<ph x="7">&lt;t7/&gt;</ph>nformación de prensa disponible en esta página web<ph x="8">&lt;t8/&gt;</ph> a los medios de comunicación<ph x="9">&lt;t9/&gt;</ph> solo <ph x="10">&lt;t10/&gt;</ph>se orienta en nuestras operaciones en los Estados Unidos<ph x="11">&lt;t11/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You further promise that none of your communications with or through the website will infringe upon the rights of any third party or contain defamatory, libelous, abusive or obscene material.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T154352Z">
+        <seg>Se compromete además a no infringir los derechos de ningún tercero mediante la comunicación en o mediante esta página web<ph x="14">&lt;t14/&gt;</ph> y que las comunicaciones no contengan material <ph x="15">&lt;t15/&gt;</ph>de naturaleza <ph x="16">&lt;t16/&gt;</ph>defamatoria<ph x="17">&lt;t17/&gt;</ph>, <ph x="18">&lt;t18/&gt;</ph>abusivo o obsceno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You agree not to affect/interrupt or to attempt to affect/interrupt the operation of this website in any manner.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20200428T154352Z">
+        <seg><ph x="19">&lt;t19/&gt;</ph>Accede<ph x="20">&lt;t20/&gt;</ph> a no afectar, interrumpir ni <ph x="21">&lt;t21/&gt;</ph>intentar <ph x="22">&lt;t22/&gt;</ph>afectar <ph x="23">&lt;t23/&gt;</ph>ni<ph x="24">&lt;t24/&gt;</ph> interrumpir las operaciones de esta página web en ningún asunto.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
